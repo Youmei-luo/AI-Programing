@@ -1,4 +1,4 @@
 # AI-Programming
 ------------------------------
-* Algorithm_Animation
+* Algorithm Animation
 * Genetic-Algorithm.ipynb / Optimization by genetic algorithm
