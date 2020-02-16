@@ -17,4 +17,5 @@
   * Learn the calculation procedure of neural network (simple perceptron)
 * output-XOR-multilayer-perceptron.ipynb
   * Learn how to handle exclusive OR (XOR) with multilayer perceptron
-
+* nn-gradient-method.ipynb
+  * Learn neural network learning by gradient method
