@@ -15,4 +15,6 @@
 * neural-network1.ipynb
   * To make learn the correct method how to buy snacks
   * Learn the calculation procedure of neural network (simple perceptron)
+* output-XOR.ipynb
+  * Learn how to handle exclusive OR (XOR) with multilayer perceptron
 
