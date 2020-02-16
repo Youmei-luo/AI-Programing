@@ -12,9 +12,9 @@
 * linear-regression.ipynb
   * Find regression equation to estimate height from UMA age  
   * The loss function which wanted to minimize is defined as the mean square error
-* neural-network1.ipynb
+* nn-simple-perceptron.ipynb
   * To make learn the correct method how to buy snacks
   * Learn the calculation procedure of neural network (simple perceptron)
-* output-XOR.ipynb
+* output-XOR-multilayer-perceptron.ipynb
   * Learn how to handle exclusive OR (XOR) with multilayer perceptron
 
