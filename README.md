@@ -1,4 +1,27 @@
 # AI-Programming
+Python and external libraries
+
+* Python3
+* NumPy
+* SciPy
+* Matplotlib
+* Jupyter Notebook
+
+Operation confirmed under the following environment
+
+* Windows 10
+* Anaconda3
+
+Anaconda has the following packages installed.
+
+* numpy
+* scipy
+* scikit-liarn
+* matpltlib
+* jyupyter
+* sympy
+* nltk
+* pandas
 ------------------------------
 * Algorithm Animation
 * Genetic-Algorithm.ipynb
