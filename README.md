@@ -16,9 +16,9 @@ Anaconda has the following packages installed.
 
 * numpy
 * scipy
-* scikit-liarn
-* matpltlib
-* jyupyter
+* scikit-learn
+* matplotlib
+* jupyter
 * sympy
 * nltk
 * pandas
