@@ -50,3 +50,5 @@ Programming overview
 * principal-component-analysis1.ipynb
   * Dimensionality reduction by principal component analysis
   * Learn  dimension reduction method for multidimensional data
+* principal-component-analysis1.ipynb
+  * Learn how to handle second principal components in dimension reduction
