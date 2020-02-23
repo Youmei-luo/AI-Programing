@@ -21,3 +21,6 @@
   * Learn neural network learning by gradient method
 * bayes-theorem.ipynb
   * Learn how to calculate probabilities using Bayes' theorem and implement probabilistic classifiers 
+* principal-component-analysis1.ipynb
+  * Dimensionality reduction by principal component analysis
+  * Learn  dimension reduction method for multidimensional data
