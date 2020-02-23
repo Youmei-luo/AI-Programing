@@ -23,6 +23,8 @@ Anaconda has the following packages installed.
 * nltk
 * pandas
 ------------------------------
+Programming overview
+
 * Algorithm Animation
 * Genetic-Algorithm.ipynb
   * Optimization by genetic algorithm
