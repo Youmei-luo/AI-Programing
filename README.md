@@ -22,6 +22,7 @@ Anaconda has the following packages installed.
 * sympy
 * nltk
 * pandas
+* seaborn
 ------------------------------
 Programming overview
 
