@@ -19,3 +19,5 @@
   * Learn how to handle exclusive OR (XOR) with multilayer perceptron
 * nn-gradient-method.ipynb
   * Learn neural network learning by gradient method
+* bayes-theorem.ipynb
+  * Learn how to calculate probabilities using Bayes' theorem and implement probabilistic classifiers 
