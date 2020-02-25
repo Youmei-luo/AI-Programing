@@ -52,3 +52,6 @@ Programming overview
   * Learn  dimension reduction method for multidimensional data
 * principal-component-analysis2.ipynb
   * Learn how to handle second principal components in dimension reduction
+* SVM-classification1.ipynb
+  * Classification by support vector machine
+  * Classification method 1 considering the margin around the decision boundary
