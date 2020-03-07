@@ -55,3 +55,6 @@ Programming overview
 * SVM-classification1.ipynb
   * Classification by support vector machine
   * Classification method 1 considering the margin around the decision boundary
+* SVM-classification2.ipynb
+  * Deal with  soft margin
+  * Use kernel method
