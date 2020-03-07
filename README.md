@@ -58,3 +58,6 @@ Programming overview
 * SVM-classification2.ipynb
   * Deal with  soft margin
   * Use kernel method
+* evaluation-of-supervised-learning.ipynb
+  * Evaluation of supervised-learning
+  * Evaluation of classification model
