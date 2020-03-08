@@ -67,3 +67,6 @@ Programming overview
 * label-propagation1.ipynb
   * Semi-supervised learning by label propagation method
   * Use iris data set
+* label-propagation2.ipynb
+  * Differences in the results of the label propagation method for the proportion of unlabeled data
+  * Use iris data set
