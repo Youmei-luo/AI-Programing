@@ -64,3 +64,6 @@ Programming overview
 * evaluation-of-regression-problem.ipynb
   * Evaluation method for regression problem
   * Approach to over-fitting
+* label-propagation1.ipynb
+  * Semi-supervised learning by label propagation method
+  * Use iris data set
