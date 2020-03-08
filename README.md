@@ -61,3 +61,6 @@ Programming overview
 * evaluation-of-supervised-learning.ipynb
   * Evaluation of supervised-learning
   * Evaluation of classification model
+* evaluation-of-regression-problem.ipynb
+  * Evaluation method for regression problem
+  * Approach to over-fitting
