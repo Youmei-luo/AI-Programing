@@ -70,3 +70,5 @@ Programming overview
 * label-propagation2.ipynb
   * Differences in the results of the label propagation method for the proportion of unlabeled data
   * Use iris data set
+* reinforcement-learning.ipynb
+  * Reinforcement learning based on rewards
