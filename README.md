@@ -72,6 +72,6 @@ Programming overview
   * Use iris data set
 * reinforcement-learning.ipynb
   * Reinforcement learning based on rewards
-* bandit-algorithm-1.ipynb
+* bandit-algorithm-1.ipynb and bandit-algorithm-1.ipynb
   * Learning methods to balance search and use
   * Search and utilize, in slot machines
